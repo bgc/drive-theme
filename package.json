@@ -1,0 +1,11 @@
+{
+  "name": "drive-theme",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Port from Sublime text theme",
+  "repository": "https://github.com/bgc/drive-theme.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
